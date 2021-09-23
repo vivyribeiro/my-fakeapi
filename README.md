@@ -3,4 +3,4 @@ Fake API personalizada usada como base de imagens no desafio final do Go Beyond 
 
 ### Recursos utilizados
 
-[JSON SERVER]("https://my-json-server.typicode.com/")
+[JSON SERVER](https://my-json-server.typicode.com/)
